@@ -15,5 +15,6 @@ Le tout est affiché à l'utilisateur à l'aide de trois afficheur 7 segments.
 <strong>Deux LED sont utilisées :</strong>
 <ul><li>Indication sur le mode</li>
   <li>Indication sur le dépassement d'une limite</li></ul>
+
 ![image](https://user-images.githubusercontent.com/85016008/134306870-9b0f9aef-dbfe-4d34-b992-048537a01b3b.png)
 
