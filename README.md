@@ -9,6 +9,6 @@ Le tout est affiché à l'utilisateur à l'aide de trois afficheur 7 segments.
 <br><br>
 Il faut donc avoir 3 boutons :
 <ul><li>Btn qui permet d'incrémenter ou de décrémenter le compteur en fonction du mode</li>
-  <li>BtnMode qui permet de changer de mode<li>
-  <li>Btn0 qui permet de remettre le compteur à 0<li><ul>
+  <li>BtnMode qui permet de changer de mode</li>
+  <li>Btn0 qui permet de remettre le compteur à 0</li></ul>
 ![image](https://user-images.githubusercontent.com/85016008/134304252-c41dc0b6-5f1c-4c9f-b456-d62a3b166082.png)
