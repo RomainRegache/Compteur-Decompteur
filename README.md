@@ -7,7 +7,7 @@ Lorsqu'une valeur limite est atteinte le compteur doit être bloqué et une led 
 <br>
 Le tout est affiché à l'utilisateur à l'aide de trois afficheur 7 segments.
 <br><br>
-Il faut donc avoir 3 boutons :
+<strong>Il faut donc avoir 3 boutons :</strong>
 <ul><li>Btn qui permet d'incrémenter ou de décrémenter le compteur en fonction du mode</li>
   <li>BtnMode qui permet de changer de mode</li>
   <li>Btn0 qui permet de remettre le compteur à 0</li></ul>
